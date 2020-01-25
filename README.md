@@ -1,4 +1,4 @@
-[![Docker Build Status](https://img.shields.io/docker/build/oznu/s6-alpine.svg?label=x64%20build&style=for-the-badge)](https://hub.docker.com/r/oznu/s6-alpine/) [![Travis](https://img.shields.io/travis/oznu/docker-s6-alpine.svg?label=arm%20build&style=for-the-badge)](https://travis-ci.org/oznu/docker-s6-alpine)
+[![Docker Build Status](https://img.shields.io/docker/build/valentinvieriu/s6-alpine.svg?label=x64%20build&style=for-the-badge)](https://hub.docker.com/r/valentinvieriu/s6-alpine/) [![Travis](https://img.shields.io/travis/valentinvieriu/docker-s6-alpine.svg?label=arm%20build&style=for-the-badge)](https://travis-ci.org/valentinvieriu/docker-s6-alpine)
 
 # s6-alpine
 
